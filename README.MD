@@ -7,3 +7,7 @@ Steps to run and test the Application:
 
 Steps to run the Unit tests:
 -Execute command 'npm test'
+
+Alternate approach to calculate the the distance between start and end positions:
+-Use 'haversine-distance' module
+-
